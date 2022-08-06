@@ -20,6 +20,7 @@
     margin: 20px auto;
     box-shadow: 0 0 3px 3px #efb762;
     border-radius: 9px;
+    transform: rotate(-0.6deg);
 }
 
 .two {
@@ -31,6 +32,7 @@
     box-shadow: 0 0 3px 3px #8f0401;
     /* top-left and bottom-right radio || top-right and bottom-left radio: */
     border-radius: 8px 10px;
+    transform: rotate(0.4deg);
 }
 
 .three {
@@ -42,6 +44,7 @@
     box-shadow: 0 0 5px 5px #b20403;
     /*top-left | top-right | bottom-right | bottom-left corners: */
     border-radius: 30px 25px 60px 12px;
+    transform: rotate(-0.2deg);
 }
 
 .one, .two {
